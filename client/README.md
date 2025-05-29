@@ -40,11 +40,3 @@ cd Eclypse-Ecommerce/client
 
 
 
-
-🙋‍♀️ Author
-Priyanka
-GitHub: @Priya12b
-
-📃 License
-MIT License – Free to use and modify!
-
